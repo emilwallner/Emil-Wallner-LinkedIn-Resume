@@ -18,9 +18,9 @@ Open to commissions and collaborations: w@llner.co
 
 ## Latest Projects 
 
-- [**Screenshot-to-code**](https://github.com/emilwallner/Screenshot-to-code), Developing deep learning projects and documenting the process.
+- [**Screenshot-to-code**](https://github.com/emilwallner/Screenshot-to-code), A neural network that transforms a design mock-up into a static website
 - [**Colorization**](https://github.com/emilwallner/Coloring-greyscale-images), Coloring B&W portraits with neural networks.
-- [**Drawing-to-logo**](http://www.aiartonline.com/design/emil-wallner/), a pix2pixHD transforming drawings into graphics (featured at NeurIPS 2018).
+- [**Drawing-to-logo**](http://www.aiartonline.com/design/emil-wallner/), a custom pix2pixHD model that transforms drawings into graphics (featured at NeurIPS 2018).
 - [**Core-war**](https://github.com/emilwallner/Corewar), A reproduction of the Core War game. Assembly compiler, Virtual Machine and GUI. 
 
 
@@ -97,7 +97,6 @@ A joint program between the Royal Institute of Technology, Stockholm School Of E
 
 - I've lived in Ghana where I volunteered as a teacher and accidentally became the king of the village I lived it. 
 - For a year I traveled in southeast Asia, the States, and South Africa while I was building an edtech startup. It failed. That's when I realized I need to learn how to code. 
-- I organized a 1000 km bike tour with my two brothers to raise awareness for sustainability. We where in the news 13 times, had 50 bikers join, including a few top politicians. 
 - I joined a music group and toured a dozen countries. My highlight was a Spanish solo for 6k Mexicans. (For the record, I'm a terrible singer. I only got the opportunity because the three first options were sick.)
 - I run every morning, only wear black, and I own less than a hundred objects. 
 - I've participated in a silent retreat and taken several solo trips to remote parts of the world. 
