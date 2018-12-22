@@ -1,5 +1,5 @@
 
-
+<img src="header.svg">
 
 Emil is a Machine Learning Engineer, currently exploring code and design synthesis, and reinforcement learning. He's studying Computer Science at 42 Paris. In 2018, he made a popular open source project that translates design mock-ups into HTML/CSS, Screenshot-to-code. His blog is translated to a dozen languages, which reaches over a million developers each year. Emil used to work for Oxford's business school and he started an investment firm focussed on education technology. 
 
