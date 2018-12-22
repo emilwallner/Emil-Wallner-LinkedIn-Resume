@@ -54,7 +54,7 @@ I assisted their MBA course on design thinking and did websites for the Skoll Ce
 #### Computer Science, 42
 ##### (2016 - 2019) | Paris
 
-42 is a private, nonprofit and tuition-free computer programming school created and funded by French billionaire Xavier Niel (founder of the telecommunication company Illiad). ' My God is 42 impressive. This is not another programming bootcamp. It's another MIT.', Paul Graham. 
+42 is a private, nonprofit and tuition-free computer programming school created and funded by French billionaire Xavier Niel. ' My God is 42 impressive. This is not another programming bootcamp. It's another MIT.', Paul Graham. 
 
 
 ---
