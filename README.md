@@ -6,6 +6,8 @@
   <a href="https://medium.com/emilwallner"><img src="https://img.shields.io/badge/Medium-4256-green.svg" alt="Medium"></a>
   <a href="mailto:w@llner.co"><img src="https://img.shields.io/badge/Email-w%40llner.co-red.svg" alt="Email"></a>
   <a href="https://github.com/emilwallner"><img src="https://img.shields.io/badge/GitHub-1012-lightgrey.svg" alt="GitHub"></a>
+  <img src="https://img.shields.io/badge/Telegram-%40emilwallner-%233DA6D9.svg" alt="Telegram">
+
 </p>
 
 ---
