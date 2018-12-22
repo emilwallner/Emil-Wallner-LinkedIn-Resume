@@ -1,6 +1,13 @@
 
 <img src="header.svg">
 
+<p align="center">
+  <a href="https://twitter.com/emilwallner"><img src="https://img.shields.io/badge/Twitter-6054-blue.svg" alt="Twitter"></a>
+  <a href="https://medium.com/emilwallner"><img src="https://img.shields.io/badge/Medium-4256-green.svg" alt="Medium"></a>
+  <a href="mailto:w@llner.co"><img src="https://img.shields.io/badge/Email-w%40llner.co-red.svg" alt="Email"></a>
+  <a href="https://github.com/emilwallner"><img src="https://img.shields.io/badge/GitHub-1012-lightgrey.svg" alt="GitHub"></a>
+</p>
+
 Emil is a Machine Learning Engineer, currently exploring code and design synthesis, and reinforcement learning. He's studying Computer Science at 42 Paris. In 2018, he made a popular open source project that translates design mock-ups into HTML/CSS, Screenshot-to-code. His blog is translated to a dozen languages, which reaches over a million developers each year. Emil used to work for Oxford's business school and he started an investment firm focussed on education technology. 
 
 Open to commissions and collaborations: w@llner.co 
