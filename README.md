@@ -1,5 +1,5 @@
 
-<p align="center"><img src="header.svg"></p>
+<p align="center"><img src="header.png"></p>
 
 <p align="center">
   <a href="https://twitter.com/emilwallner"><img src="https://img.shields.io/badge/Twitter-6054-34A1F2.svg" alt="Twitter"></a>
