@@ -16,10 +16,10 @@ Open to commissions and collaborations: w@llner.co
 
 ## Latest Projects 
 
-- **Screenshot-to-code**, Developing deep learning projects and documenting the process.
-- **Colorization**, Developing deep learning projects and documenting the process.
-- **Drawing-to-logo**, Developing deep learning projects and documenting the process.
-- **Core-war**, 
+- [**Screenshot-to-code**](https://github.com/emilwallner/Screenshot-to-code), Developing deep learning projects and documenting the process.
+- [**Colorization**](https://github.com/emilwallner/Coloring-greyscale-images), Coloring B&W portraits with neural networks.
+- [**Drawing-to-logo**](http://www.aiartonline.com/design/emil-wallner/), a pix2pixHD transforming drawings into graphics (featured at NeurIPS 2018).
+- [**Core-war**](https://github.com/emilwallner/Corewar), A reproduction of the Core War game. Assembly compiler, Virtual Machine and GUI. Code
 
 
 
