@@ -95,7 +95,7 @@ A joint program between the Royal Institute of Technology, Stockholm School Of E
 
 ## Quirks
 
-- I've lived in Ghana where I volunteered as a teacher and accidentally became the king of the village I lived it. 
+- I've lived in Ghana where I volunteered as a teacher and accidentally became the king of the village I lived in. 
 - For a year I traveled in southeast Asia, the States, and South Africa while I was building an edtech startup. It failed. That's when I realized I need to learn how to code. 
 - I joined a music group and toured a dozen countries. My highlight was a Spanish solo for 6k Mexicans. (For the record, I'm a terrible singer. I only got the opportunity because the three first options were sick.)
 - I run every morning, only wear black, and I own less than a hundred objects. 
