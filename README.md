@@ -82,10 +82,15 @@ A joint program between the Royal Institute of Technology, Stockholm School Of E
 - Digital Ocean
 - AWS
 
+### Design
+
+- Sketch
+- Photoshop
+
 ---
 
 
-#### Other
+## Other
 
 - I've lived in Ghana where I volunteered as a teacher and accidentally became the king of the village I lived it. 
 - For a year I traveled in southeast Asia, the States, and South Africa while I was trying to build an edtech startup. It failed. That's when I realized I need to learn how to code. 
