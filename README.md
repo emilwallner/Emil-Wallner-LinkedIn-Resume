@@ -10,10 +10,9 @@
 
 ---
 
-Emil is a Machine Learning Engineer, currently exploring code and design synthesis, and reinforcement learning. He's studying Computer Science at 42 Paris. In 2018, he made a popular open source project that translates design mock-ups into HTML/CSS, Screenshot-to-code. His blog is translated to a dozen languages, which reaches over a million developers each year. Emil used to work for Oxford's business school and he started an investment firm focussed on education technology. 
+Emil is a Machine Learning Engineer, currently exploring code and design synthesis, and reinforcement learning. He's studying Computer Science at 42 Paris. In 2018, he made a popular open source project that translates design mock-ups into HTML/CSS, [Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code). [His blog](http://medium.com/emilwallner) is translated to a dozen languages, which reaches over a million developers each year. Emil used to work for Oxford's business school and he started an investment firm focussed on education technology. 
 
-Open to commissions and collaborations: w@llner.co 
-
+Open to commissions and collaborations: w@llner.co
 
 ## Latest Projects 
 
@@ -27,14 +26,14 @@ Open to commissions and collaborations: w@llner.co
 
 ## Experience 
 
-#### Deep Learning Internship, FloydHub (YC W17)
+#### Deep Learning Internship, [FloydHub (YC W17)](https://www.floydhub.com/)
 ##### July 2017 - January 2018 (7 months)  | San Francisco Bay Area
 
 Developing deep learning projects and documenting the process.
 
 --- 
 
-#### Co-founder, Emerge Education
+#### Co-founder, [Emerge Education](https://emerge.education/)
 ##### December 2012 - November 2014 (2 years) | London
 
 Europe's leading seed investor for edtech companies.
@@ -42,7 +41,7 @@ Europe's leading seed investor for edtech companies.
 ---
 
 
-#### TA and Developer, University of Oxford - Said Business School
+#### TA and Developer, [University of Oxford - Said Business School](https://www.sbs.ox.ac.uk/)
 ##### April 2012 - January 2014 (1 year 10 months) | Oxford
 
 I assisted their MBA course on design thinking and did websites for the Skoll Centre.
@@ -51,7 +50,7 @@ I assisted their MBA course on design thinking and did websites for the Skoll Ce
 
 ## Education
 
-#### Computer Science, 42
+#### Computer Science, [42](https://www.42.fr/)
 ##### (2016 - 2019) | Paris
 
 42 is a private, nonprofit and tuition-free computer programming school created and funded by French billionaire Xavier Niel. ' My God is 42 impressive. This is not another programming bootcamp. It's another MIT.', Paul Graham. 
@@ -59,7 +58,7 @@ I assisted their MBA course on design thinking and did websites for the Skoll Ce
 
 ---
 
-#### White Label, Stockholm School of Entrepreneurship
+#### White Label, [Stockholm School of Entrepreneurship](https://www.sses.se/)
 ##### (2011 - 2012) | Stockholm
 
 A joint program between the Royal Institute of Technology, Stockholm School Of Economics, and Konstfack University College of Arts, Crafts and Design
