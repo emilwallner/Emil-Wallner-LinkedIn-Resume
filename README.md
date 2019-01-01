@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://twitter.com/emilwallner"><img src="https://img.shields.io/badge/Twitter-6054-34A1F2.svg" alt="Twitter"></a>
-  <a href="https://medium.com/emilwallner"><img src="https://img.shields.io/badge/Medium-4256-71EF8E.svg" alt="Medium"></a>
+  <a href="https://medium.com/@emilwallner"><img src="https://img.shields.io/badge/Medium-4256-71EF8E.svg" alt="Medium"></a>
   <a href="mailto:w@llner.co"><img src="https://img.shields.io/badge/Email-w%40llner.co-red.svg" alt="Email"></a>
   <a href="https://github.com/emilwallner"><img src="https://img.shields.io/badge/GitHub-1012-000000.svg" alt="GitHub"></a>
   <a href="https://goo.gl/maps/gxHX7SRQQTL2"><img src="https://img.shields.io/badge/Location-Paris-00FFB4.svg" alt="Paris"></a>
