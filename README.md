@@ -82,6 +82,7 @@ A joint program between the Royal Institute of Technology, Stockholm School Of E
 
 ### Platforms
 
+- Kubernetes
 - Firebase
 - Google Cloud Platform
 - Digital Ocean
