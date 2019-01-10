@@ -84,6 +84,7 @@ A joint program between the Royal Institute of Technology, Stockholm School Of E
 
 - Kubernetes
 - Firebase
+- FloydHub
 - Google Cloud Platform
 - Digital Ocean
 - AWS
