@@ -72,27 +72,15 @@ A joint program between the Royal Institute of Technology, Stockholm School Of E
 
 ### Languages & Frameworks
 
-- C
-- Python
-- Javascript
-- React
-- Tensorflow
-- Pytorch
-- Keras
+- C, Python, Javascript, React, Tensorflow, Pytorch, and Keras.
 
 ### Platforms
 
-- Kubernetes
-- Firebase
-- FloydHub
-- Google Cloud Platform
-- Digital Ocean
-- AWS
+- Kubernetes, Firebase, FloydHub, Google Cloud Platform, Digital Ocean, and AWS.
 
 ### Design
 
-- Sketch
-- Photoshop
+- Sketch & Photoshop
 
 ---
 
