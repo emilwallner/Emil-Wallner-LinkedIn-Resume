@@ -18,6 +18,8 @@ Emil is a Machine Learning Engineer, currently exploring code synthesis and rein
 
 Open to commissions and collaborations: w@llner.co
 
+**Looking for a deep learning engineering/research internship at the end of 2019.**
+
 ## Latest Projects 
 
 - [**Screenshot-to-code**](https://github.com/emilwallner/Screenshot-to-code), A neural network that transforms a design mock-up into a static website
