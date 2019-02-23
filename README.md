@@ -16,7 +16,7 @@
 
 Emil is a Machine Learning Engineer, currently exploring code synthesis and reinforcement learning. He's studying Computer Science at 42 Paris. In 2018, he made a popular open source project that translates design mock-ups into HTML/CSS, [Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code). 
 
-[His blog](http://medium.com/@emilwallner) is translated to a dozen languages, which reaches over a million developers each year. Emil used to work for Oxford's business school and he started a seed investment firm focussed on education technology. 
+[His blog](http://medium.com/@emilwallner) is translated to a dozen languages, which reaches over a million developers each year. Emil used to work for Oxford's business school and he started a [seed investment firm](http://emerge.education/) focussed on education technology. 
 
 **Looking for a deep learning engineering/research internship at the end of 2019.**
 
