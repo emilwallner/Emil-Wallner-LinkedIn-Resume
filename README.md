@@ -24,9 +24,9 @@ Open to commissions and collaborations: w@llner.co
 
 ## Latest Projects 
 
-- [**Screenshot-to-code**](https://github.com/emilwallner/Screenshot-to-code), A neural network that transforms a design mock-up into a static website
+- [**Screenshot-to-code**](https://github.com/emilwallner/Screenshot-to-code), A neural network that transforms a design mock-up into a static website. (GitHub's [most popular repo](https://twitter.com/42born2code/status/952889621779755008) for ~1 month.)
 - [**Colorization**](https://github.com/emilwallner/Coloring-greyscale-images), Coloring B&W portraits with neural networks.
-- [**Drawing-to-logo**](http://www.aiartonline.com/design/emil-wallner/), a custom pix2pixHD model that transforms drawings into graphics (featured at NeurIPS 2018).
+- [**Drawing-to-logo**](http://www.aiartonline.com/design/emil-wallner/), a custom pix2pixHD model that transforms drawings into graphics (featured at [NeurIPS 2018](http://www.aiartonline.com/design/emil-wallner/)).
 - [**Core-war**](https://github.com/emilwallner/Corewar), A reproduction of the Core War game. Assembly compiler, Virtual Machine and GUI. 
 
 
