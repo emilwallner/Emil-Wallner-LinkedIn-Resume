@@ -61,7 +61,9 @@ I assisted their MBA course on design thinking and did websites for the Skoll Ce
 #### Computer Science, [42](https://www.42.fr/)
 ##### (2016 - 2019) | Paris
 
-42 is a private, nonprofit and tuition-free computer programming school created and funded by French billionaire Xavier Niel. ' My God is 42 impressive. This is not another programming bootcamp. It's another MIT.', Paul Graham. 
+42 is a private, nonprofit and tuition-free computer programming school created and funded by French billionaire Xavier Niel. 
+
+*' My God is 42 impressive. This is not another programming bootcamp. It's another MIT.'*, Paul Graham. 
 
 
 ---
@@ -69,7 +71,7 @@ I assisted their MBA course on design thinking and did websites for the Skoll Ce
 #### White Label, [Stockholm School of Entrepreneurship](https://www.sses.se/)
 ##### (2011 - 2012) | Stockholm
 
-A joint program between the Royal Institute of Technology, Stockholm School Of Economics, and Konstfack University College of Arts, Crafts and Design on Venture Creation. 
+A joint program for six students between the Royal Institute of Technology, Stockholm School Of Economics, and Konstfack University College of Arts, Crafts and Design on Venture Creation. 
 
 
 ## Stack
