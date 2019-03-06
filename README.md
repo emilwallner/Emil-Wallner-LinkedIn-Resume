@@ -74,7 +74,7 @@ A joint program between the Royal Institute of Technology, Stockholm School Of E
 
 ## Stack
 
-### Languages & Frameworks
+### Programming Languages & Frameworks
 
 - C, Python, Javascript, React, Tensorflow, Pytorch, and Keras.
 
@@ -84,7 +84,11 @@ A joint program between the Royal Institute of Technology, Stockholm School Of E
 
 ### Design
 
-- Sketch & Photoshop
+- Sketch and Photoshop.
+
+### Languages
+
+- English and Swedish.
 
 ---
 
