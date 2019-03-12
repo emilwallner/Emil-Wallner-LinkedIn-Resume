@@ -76,7 +76,7 @@ A joint program for six students between the Royal Institute of Technology, Stoc
 
 ## Stack
 
-### Programming Languages & Frameworks
+### Programming
 
 - C, Python, Javascript, React, Tensorflow, Pytorch, and Keras.
 
