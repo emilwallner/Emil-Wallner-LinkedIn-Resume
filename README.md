@@ -23,6 +23,11 @@ Emil is currently exploring code synthesis and deep reinforcement learning. He's
 
 Open to commissions and collaborations: w@llner.co
 
+## 1 Minute Video Introduction
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="video.png" 
+alt="IMAGE ALT TEXT HERE" /></a>
+
 ## Latest Projects 
 
 - [**Screenshot-to-code**](https://github.com/emilwallner/Screenshot-to-code), A neural network that transforms a design mock-up into a static website.
