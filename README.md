@@ -21,8 +21,12 @@ Emil is currently exploring code synthesis and deep reinforcement learning. He's
 
 **Looking for a deep learning engineering/research internship at the end of 2019.**
 
+<br/>
+
 ## A Short Video Introduction
 <a href="https://www.youtube.com/watch?v=xKPk7tG2upc" target="_blank"><img src="video.png" alt="IMAGE ALT TEXT HERE" /></a>
+
+<br/>
 
 ## Latest Projects 
 
@@ -33,6 +37,7 @@ Emil is currently exploring code synthesis and deep reinforcement learning. He's
 
 
 
+<br/>
 
 ## Experience 
 
@@ -58,6 +63,8 @@ I assisted their MBA course on design thinking and did websites for the Skoll Ce
 
 ---
 
+<br/>
+
 ## Education
 
 #### Computer Science, [42](https://www.42.fr/)
@@ -75,6 +82,10 @@ I assisted their MBA course on design thinking and did websites for the Skoll Ce
 
 A joint program for six students between the Royal Institute of Technology, Stockholm School Of Economics, and Konstfack University College of Arts, Crafts and Design on Venture Creation. 
 
+---
+
+
+<br/>
 
 ## Stack
 
@@ -94,8 +105,8 @@ A joint program for six students between the Royal Institute of Technology, Stoc
 
 - English and Swedish.
 
----
 
+<br/>
 
 ## Quirks
 
