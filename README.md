@@ -24,9 +24,7 @@ Emil is currently exploring code synthesis and deep reinforcement learning. He's
 Open to commissions and collaborations: w@llner.co
 
 ## A One Minute Video Introduction
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="video.png" 
-alt="IMAGE ALT TEXT HERE" /></a>
+<a href="https://www.youtube.com/watch?v=xKPk7tG2upc" target="_blank"><img src="video.png" alt="IMAGE ALT TEXT HERE" /></a>
 
 ## Latest Projects 
 
