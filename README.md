@@ -21,7 +21,7 @@ Emil is currently exploring code synthesis and deep reinforcement learning. He's
 
 **Looking for a deep learning engineering/research internship at the end of 2019.**
 
-## A One Minute Video Introduction
+## A Short Video Introduction
 <a href="https://www.youtube.com/watch?v=xKPk7tG2upc" target="_blank"><img src="video.png" alt="IMAGE ALT TEXT HERE" /></a>
 
 ## Latest Projects 
