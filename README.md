@@ -17,11 +17,11 @@
 Emil is currently exploring code synthesis and deep reinforcement learning. He's studying Computer Science at 42 Paris. In 2018, he made a popular open source project that translates design mock-ups into HTML/CSS, [Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code). Google recently recognized him as a [Google Developer Expert](https://developers.google.com/programs/experts/) on Machine Learning. 
 
 
-[His blog](http://medium.com/@emilwallner) is translated to a dozen languages, which reaches over a million developers each year. Emil used to work for Oxford's business school and he started a [seed investment firm](http://emerge.education/) focussed on education technology. 
+[His blog](http://medium.com/@emilwallner) is translated to a dozen languages, which reaches over a million developers each year. Emil used to work for Oxford's business school and he started a [seed investment firm](http://emerge.education/) focussed on education technology.
+
+Contact: w@llner.co
 
 **Looking for a deep learning engineering/research internship at the end of 2019.**
-
-Open to commissions and collaborations: w@llner.co
 
 ## A One Minute Video Introduction
 <a href="https://www.youtube.com/watch?v=xKPk7tG2upc" target="_blank"><img src="video.png" alt="IMAGE ALT TEXT HERE" /></a>
