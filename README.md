@@ -16,7 +16,7 @@
 
 Emil is exploring mathematical reasoning using deep learning. He's studying Computer Science at 42 Paris. In 2018, he made a popular open source project that translates design mock-ups into HTML/CSS, [Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code), and in early 2019 he was subject for a short-film by Google for his work on [automated colorization](https://www.youtube.com/watch?v=xKPk7tG2upc). 
 
-Emil used to work for Oxford's business school and he co-founded a [seed investment firm](http://emerge.education/) focussed on education technology. Email: w@llner.co
+Emil used to work for the University of Oxford and he co-founded a [seed investment firm](http://emerge.education/) focussed on education technology. Email: w@llner.co
 
 **Looking for a deep learning engineering/research internship at the end of 2019.**
 
