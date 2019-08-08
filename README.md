@@ -71,13 +71,6 @@ I assisted their MBA course on design thinking and did websites for the Skoll Ce
 
 ---
 
-#### White Label, [Stockholm School of Entrepreneurship](https://www.sses.se/)
-##### (2011 - 2012) | Stockholm
-
-A joint program for six students between the Royal Institute of Technology, Stockholm School Of Economics, and Konstfack University College of Arts, Crafts and Design on Venture Creation. 
-
----
-
 
 <br/>
 
