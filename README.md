@@ -18,7 +18,7 @@ Emil is exploring mathematical reasoning using deep learning. He's studying Comp
 
 Emil used to work for the University of Oxford and he co-founded a [seed investment firm](http://emerge.education/) focussed on education technology. Email: w@llner.co
 
-**Looking for a deep learning engineering/research internship at the end of 2019.**
+**Looking for a deep learning engineering/research internship at the end of 2020.**
 
 <br/>
 
