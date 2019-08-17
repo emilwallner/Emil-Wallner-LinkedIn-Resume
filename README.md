@@ -36,7 +36,7 @@ Emil used to work for the University of Oxford and he co-founded a [seed investm
 ## Experience 
 
 #### Deep Learning Researcher (contractor), [Google](https://artsandculture.google.com/)
-##### July 2017 - January 2018 (7 months)  | San Francisco Bay Area
+##### August 2019 - Present | Paris
 
 --- 
 
