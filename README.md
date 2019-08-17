@@ -33,7 +33,6 @@ Email: w@llner.co
 - [**Drawing-to-logo**](http://www.aiartonline.com/design/emil-wallner/), a custom pix2pixHD model that transforms drawings into graphics (featured at [NeurIPS 2018](http://www.aiartonline.com/design/emil-wallner/)).
 
 
-
 <br/>
 
 ## Experience 
