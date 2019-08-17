@@ -27,7 +27,6 @@ Emil used to work for the University of Oxford and he co-founded a [seed investm
 - [**Screenshot-to-code**](https://github.com/emilwallner/Screenshot-to-code), A neural network that transforms a design mock-up into a static website.
 - [**Colorization**](https://github.com/emilwallner/Coloring-greyscale-images), Coloring B&W portraits with neural networks. (featured by [Google](https://www.blog.google/technology/ai/creative-coder-adding-color-machine-learning/))
 - [**Drawing-to-logo**](http://www.aiartonline.com/design/emil-wallner/), a custom pix2pixHD model that transforms drawings into graphics (featured at [NeurIPS 2018](http://www.aiartonline.com/design/emil-wallner/)).
-- [**Core-war**](https://github.com/emilwallner/Corewar), A reproduction of the Core War game. Assembly compiler, Virtual Machine and GUI. 
 
 
 
