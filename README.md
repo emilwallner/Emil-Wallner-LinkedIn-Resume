@@ -35,6 +35,11 @@ Emil used to work for the University of Oxford and he co-founded a [seed investm
 
 ## Experience 
 
+#### Deep Learning Researcher (contractor), [Google](https://artsandculture.google.com/)
+##### July 2017 - January 2018 (7 months)  | San Francisco Bay Area
+
+--- 
+
 #### Deep Learning Internship, [FloydHub (YC W17)](https://www.floydhub.com/)
 ##### July 2017 - January 2018 (7 months)  | San Francisco Bay Area
 
