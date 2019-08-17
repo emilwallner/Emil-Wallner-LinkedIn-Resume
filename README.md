@@ -16,9 +16,9 @@
 
 Emil is doing deep learning research at Google Art & Culture, self-studies machine learning at 42 Paris, and is doing independent research in mathematical reasoning.
 
-In 2018, he made a popular open source project that translates design mock-ups into HTML/CSS, [Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code), and in early 2019 he was subject for a short-film by Google for his work on [automated colorization](https://www.youtube.com/watch?v=xKPk7tG2upc). 
+In 2018, he made a popular open-source project that translates design mock-ups into HTML/CSS, [Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code), and in early 2019 he was subject for a short-film by Google for his work on [automated colorization](https://www.youtube.com/watch?v=xKPk7tG2upc). 
 
-Emil used to work for the University of Oxford and he co-founded a [seed investment firm](http://emerge.education/) focussed on education technology (59 investments). 
+Emil previously worked for the University of Oxford and he co-founded a [seed investment firm](http://emerge.education/) focussed on education technology (59 investments). 
 
 Email: w@llner.co
 
