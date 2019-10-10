@@ -57,7 +57,7 @@ Europe's leading seed investor for edtech companies.
 ---
 
 
-#### TA and Developer, [University of Oxford - SBS](https://www.sbs.ox.ac.uk/)
+#### TA and Developer (contractor), [University of Oxford - SBS](https://www.sbs.ox.ac.uk/)
 ##### April 2012 - January 2014 (1 year 10 months) | Oxford
 
 I assisted their MBA course on design thinking and did websites for the Skoll Centre.
