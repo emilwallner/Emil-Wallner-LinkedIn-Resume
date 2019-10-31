@@ -36,7 +36,7 @@ Email: w@llner.co
 ## Experience 
 
 #### Machine Learning Researcher (contractor), [Google](https://artsandculture.google.com/)
-##### August 2019 - Present | Paris
+##### July 2019 - Present | Paris
 
 --- 
 
