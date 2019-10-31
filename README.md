@@ -40,7 +40,7 @@ Email: w@llner.co
 
 --- 
 
-#### Deep Learning Internship, [FloydHub (YC W17)](https://www.floydhub.com/)
+#### Machine Learning Internship, [FloydHub (YC W17)](https://www.floydhub.com/)
 ##### July 2017 - January 2018 (7 months)  | San Francisco Bay Area
 
 Developing deep learning projects and documenting the process.
