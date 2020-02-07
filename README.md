@@ -1,76 +1,91 @@
-
-<p align="center"><img src="header.png"></p>
+<h1 align="center">Viranchee Lotia</h1>
 
 <p align="center">
-  <a href="https://twitter.com/emilwallner"><img src="https://img.shields.io/badge/Twitter-6054-34A1F2.svg" alt="Twitter"></a>
-  <a href="https://medium.com/@emilwallner"><img src="https://img.shields.io/badge/Medium-4256-71EF8E.svg" alt="Medium"></a>
-  <a href="mailto:w@llner.co"><img src="https://img.shields.io/badge/Email-w%40llner.co-red.svg" alt="Email"></a>
-  <a href="https://github.com/emilwallner"><img src="https://img.shields.io/badge/GitHub-1012-000000.svg" alt="GitHub"></a>
-  <a href="https://goo.gl/maps/gxHX7SRQQTL2"><img src="https://img.shields.io/badge/Location-Paris-00FFB4.svg" alt="Paris"></a>
-
-  <img src="https://img.shields.io/badge/Telegram-%40emilwallner-%233DA6D9.svg" alt="Telegram">
+  <a href="https://twitter.com/code_magician"><img src="https://img.shields.io/badge/Twitter-299-34A1F2.svg" alt="Twitter"></a>
+  <a href="mailto:viranchee@outlook.com"><img src="https://img.shields.io/badge/Email-viranchee%40outlook.com-red.svg" alt="Email"></a>
+  <a href="https://github.com/Viranchee"><img src="https://img.shields.io/badge/Viranchee-2-000000.svg" alt="GitHub"></a>
+  <a href="https://www.google.co.in/maps/place/Mumbai"><img src="https://img.shields.io/badge/Location-Mumbai-00FFB4.svg" alt="Mumbai"></a>
 
 </p>
 
 ---
 
-Emil is doing machine learning research at Google Art & Culture and independent research in reasoning.
+Viranchee is making multimedia iPhone apps at Heady LLC.
 
-In 2018, he made a popular open-source project that translates design mock-ups into HTML/CSS, [Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code), and in early 2019 he was subject for a short-film by Google for his work on [automated colorization](https://www.youtube.com/watch?v=xKPk7tG2upc). 
+In 2019, he came up with a technique on having Private Properties in Swift Protocols. His work, sample project, presentation slides and instructions are available in [this monorepo](www.github.com/Viranchee/PrivatePropertiesInProtocols).
 
-Emil previously worked for the University of Oxford and he co-founded a [seed investment firm](http://emerge.education/) focussed on education technology (59 investments). 
+Viranchee previously worked as an Embedded Developer at Earth Energy EV, an Electric bike startup.
 
-Email: w@llner.co
+Viranchee holds a B.E. in Electronics Engineering from KJSCE (Mumbai University). He has a research paper on [Microwave Filters]()
+
+Email: viranchee@outlook.com
 
 <br/>
 
 ## Latest Projects 
 
-- [**Screenshot-to-code**](https://github.com/emilwallner/Screenshot-to-code), A neural network that transforms a design mock-up into a static website.
-- [**Colorization**](https://github.com/emilwallner/Coloring-greyscale-images), Coloring B&W portraits with neural networks. (featured by [Google](https://www.blog.google/technology/ai/creative-coder-adding-color-machine-learning/))
-- [**Drawing-to-logo**](http://www.aiartonline.com/design/emil-wallner/), a custom pix2pixHD model that transforms drawings into graphics (featured at [NeurIPS 2018](http://www.aiartonline.com/design/emil-wallner/)).
-
+- [**Popviewers**](https://www.heady.io), An iOS App to discover new Movies and TV Shows, and submit/view video reviews, providing a layer of authenticity and emotion. The App is in Beta testing, and was made as part of working with Heady LLC.
+- [**PrivatePropertiesInProtocols**](https://github.com/Viranchee/PrivatePropertiesInProtocols), Implement Private Properties in Protocols using this approach. Easy to use, along with Compile time help.
+- [**BuggyAutoLayout**](https://github.com/Viranchee/BuggyAutolayout), Quirks of iOS in Keyboard handling and it's solution
+- [**100DaysOfSwiftUI**](http://www.aiartonline.com/design/emil-wallner/), A monorepo containing Viranchee's knowledge-base of SwiftUI
 
 <br/>
 
 ## Experience 
 
-#### Machine Learning Researcher (contractor), [Google](https://artsandculture.google.com/)
-##### July 2019 - Present | Paris
+#### iOS App Developer, [Heady LLC](https://heady.io)
+##### April 2019 - Present | Mumbai
+
+Principal Architect on **Popviewers** app
+
+Exploring and implementing ARKit
+
+Review code of team members to help reduce bugs, improve collective team knowledge
+
+Increase team's collective knowledge by giving internal talks on Object Composition, Functional Programming, Design Patterns
 
 --- 
 
-#### Machine Learning Internship, [FloydHub (YC W17)](https://www.floydhub.com/)
-##### July 2017 - January 2018 (7 months)  | San Francisco
+#### iOS Developer Intern, [Indiawyn Gaming](https://www.indiawyn.com/)
+##### November - January 2018 (2 months)  | Mumbai
 
-Developing deep learning projects and documenting the process.
+Create custom UI elements
 
 --- 
 
-#### Co-founder, [Emerge Education](https://emerge.education/)
-##### December 2012 - November 2014 (2 years) | London
+#### Embedded Developer Intern, [Earth Energy EV](http://earthenergy-ev.com/)
+##### December 2017 - June 2018 (6 months) | Mumbai
 
-Europe's leading seed investor for edtech companies.
+Embedded Development using Arduino, RPi Zero, MQTT, Hardware interfacing BLDC motor controllers, 3G Data card, GLCD Display, Bike Lights control using Relays
 
 ---
 
 
-#### TA and Developer (contractor), [University of Oxford - SBS](https://www.sbs.ox.ac.uk/)
-##### April 2012 - January 2014 (1 year 10 months) | Oxford
+#### Website Developer (contractor), [Unique Graphology Center](https://www.sbs.ox.ac.uk/)
+##### April 2012 - January 2014 (1 year 10 months) | Unique Graphology Center
 
-I assisted their MBA course on design thinking and did websites for the Skoll Centre.
+I assisted a relative to get their website up and running using Wordpress to market their skills in Graphology.
 
 ---
+<br/>
 
+## Public Speaking Opportunities
+
+- **[State Management made easy with Reducers]()** : Talk at Kotlin User Group Mumbai community, February 2020
+- **[Private Properties in Protocols]()** : Talk at SwiftIndia Mumbai community, January 2020
+- **[Custom UIViews and Gesture Recognizers]()** : Lightning talk at SwiftIndia Mumbai community, June 2019
+- **[Protocols and Delegates]()** : Talk at Android Mumbai community, March 2019 
+- **[Protocols and Delegates]()** : Talk at SwiftIndia Mumbai community, February 2019 
+- **[Python Workshop]()** : Workshop at Null Mumbai community, December 2018
+---
 <br/>
 
 ## Education
 
-#### Computer Science, [42](https://www.42.fr/)
-##### (2016 - 2019) | Paris
+#### iOS Development Bootcamp, [Vipul Shah](https://appdevcon.nl/speaker/vipul-shah)
+##### (2016 - 2019) | Mumbai
 
-A peer-to-peer CS school without teachers. 
-
+A bootcamp for 5 students by Vipul Shah to improve their skills in app development domain and prepare them to be industry ready for available jobs.
 
 ---
 
@@ -81,27 +96,30 @@ A peer-to-peer CS school without teachers.
 
 ### Programming
 
-- C, Python, Javascript, React, Tensorflow, Pytorch, and Keras.
+- Sound knowledge of Functional Programming, Composition
+- Swift, C, C++, Python, Javascript, Typescript
+
+### Books/Materials influenced by
+- **[Objc.io](objc.io)**
+- **[RayWenderlich](raywenderlich.com/store)**
+- **[PointFree](pointfree.co)**
+- **[Composing Software, Eric Elliot](https://leanpub.com/composingsoftware)**
+- **[iOS Development Cookbook, Erica Sadun](https://www.amazon.com/Core-iOS-Developers-Cookbook-Library/dp/0321948106)**
+- **[SwiftTube](swifttube.co)**
 
 ### Platforms
 
-- Kubernetes, Firebase, FloydHub, Google Cloud Platform, Digital Ocean, and AWS.
+- 
 
 ### Design
 
-- Sketch and Photoshop.
+- FCPX, Motion, Sketch, Photoshop, Illustrator
 
 ### Languages
 
-- English and Swedish.
+- English, Hindi, Marathi, Gujarati
 
 
 <br/>
 
 ## Quirks
-
-- I've lived in Ghana where I volunteered as a teacher and accidentally became the king of the village I lived in. 
-- I joined a music group and toured a dozen countries. My highlight was a Spanish solo for 6k Mexicans. (For the record, I'm a terrible singer. I only got the opportunity because the three first options were sick.)
-- For a year, I lived as a digital nomad in southeast Asia, the States, and South Africa.
-- I run the equivalent of a marathon every week, only wear black, and I own less than a hundred objects. 
-- I've participated in a silent retreat and taken several solo trips to remote parts of the world. 
