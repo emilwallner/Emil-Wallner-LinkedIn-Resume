@@ -33,8 +33,7 @@ Email: viranchee@outlook.com
 
 ## Experience 
 
-#### iOS App Developer, [Heady LLC][heady]
-##### April 2019 - Present | Mumbai
+#### iOS App Developer, [Heady LLC][heady], April 2019 - Present | Mumbai
 
 Principal Architect on **Popviewers** app
 
@@ -46,15 +45,13 @@ Increase team's collective knowledge by giving internal talks on Object Composit
 
 --- 
 
-#### iOS Developer Intern, [Indiawyn Gaming][indiawyn]
-##### November - January 2018 (2 months)  | Mumbai
+#### iOS Developer Intern, [Indiawyn Gaming][indiawyn], November - January 2018 (2 months)  | Mumbai
 
 Create custom UI elements
 
 --- 
 
-#### Embedded Developer Intern, [Earth Energy EV][earthEnergy]
-##### December 2017 - June 2018 (6 months) | Mumbai
+#### Embedded Developer Intern, [Earth Energy EV][earthEnergy], December 2017 - June 2018 (6 months) | Mumbai
 
 Embedded Development using Arduino, RPi Zero, MQTT, Hardware interfacing BLDC motor controllers, 3G Data card, GLCD Display, Bike Lights control using Relays
 
@@ -75,13 +72,11 @@ Embedded Development using Arduino, RPi Zero, MQTT, Hardware interfacing BLDC mo
 
 ## Education
 
-#### iOS Development Bootcamp, [Vipul Shah][vipulSpeaker]
-##### (2016 - 2019) | Mumbai
+#### iOS Development Bootcamp, [Vipul Shah][vipulSpeaker], 2018 | Mumbai
 
 A bootcamp for 5 students by Vipul Shah to improve their skills in app development domain and prepare them to be industry ready for available jobs.
 
-#### B.E. Electronics Engineering, Mumbai University, KJSCE
-##### (2014 - 2019) | Mumbai
+#### B.E. Electronics Engineering, Mumbai University, KJSCE, 2014 - 2019 | Mumbai
 
 Projects:
 - Design and Analysis of Microwave Filters for WiFi Application - [published paper][microwavePaper]
@@ -89,8 +84,7 @@ Projects:
 - Water detection using Capacitive Sensor 
 - Configurable single shot timer using IC555
 
-#### Diploma in Industrial Electronics, KJSP
-##### (2011 - 2014) | Mumbai
+#### Diploma in Industrial Electronics, K J Somaiya Polytechnic, 2011 - 2014 | Mumbai
 
 ---
 
