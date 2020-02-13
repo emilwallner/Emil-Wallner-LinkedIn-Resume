@@ -4,7 +4,7 @@
   <a href="https://twitter.com/code_magician"><img src="https://img.shields.io/badge/Twitter-299-34A1F2.svg" alt="Twitter"></a>
   <a href="mailto:viranchee@outlook.com"><img src="https://img.shields.io/badge/Email-viranchee%40outlook.com-red.svg" alt="Email"></a>
   <a href="https://github.com/Viranchee"><img src="https://img.shields.io/badge/Github-Viranchee-000000.svg" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/viranchee/"><img src="https://img.shields.io/badge/LinkedIn-Viranchee-00FFB4.svg" alt="Mumbai"></a>
+  <a href="https://www.linkedin.com/in/viranchee/"><img src="https://img.shields.io/badge/LinkedIn-Viranchee-007AB4.svg" alt="Mumbai"></a>
 
 </p>
 
