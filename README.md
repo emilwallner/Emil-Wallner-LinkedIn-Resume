@@ -3,20 +3,20 @@
 <p align="center">
   <a href="https://twitter.com/code_magician"><img src="https://img.shields.io/badge/Twitter-299-34A1F2.svg" alt="Twitter"></a>
   <a href="mailto:viranchee@outlook.com"><img src="https://img.shields.io/badge/Email-viranchee%40outlook.com-red.svg" alt="Email"></a>
-  <a href="https://github.com/Viranchee"><img src="https://img.shields.io/badge/Viranchee-2-000000.svg" alt="GitHub"></a>
-  <a href="https://www.google.co.in/maps/place/Mumbai"><img src="https://img.shields.io/badge/Location-Mumbai-00FFB4.svg" alt="Mumbai"></a>
+  <a href="https://github.com/Viranchee"><img src="https://img.shields.io/badge/Github-Viranchee-000000.svg" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/viranchee/"><img src="https://img.shields.io/badge/LinkedIn-Viranchee-00FFB4.svg" alt="Mumbai"></a>
 
 </p>
 
 ---
 
-Viranchee is making multimedia iPhone apps at Heady LLC.
+Viranchee is making multimedia iPhone apps at [Heady LLC][heady].
 
-In 2019, he came up with a technique on having Private Properties in Swift Protocols. His work, sample project, presentation slides and instructions are available in [this monorepo](www.github.com/Viranchee/PrivatePropertiesInProtocols).
+In 2019, he came up with a technique on having Private Properties in Swift Protocols. His work, sample project, presentation slides and instructions are available in [this monorepo][PrivatePropertiesInProtocols].
 
-Viranchee previously worked as an Embedded Developer at Earth Energy EV, an Electric bike startup.
+Viranchee previously worked as an Embedded Developer at [Earth Energy EV][earthEnergy], an Electric bike startup.
 
-Viranchee holds a B.E. in Electronics Engineering from KJSCE (Mumbai University). He has a research paper on [Microwave Filters]()
+Viranchee holds a B.E. in Electronics Engineering from KJSCE (Mumbai University). He has a research paper on [Microwave Filters][microwavePaper]
 
 Email: viranchee@outlook.com
 
@@ -24,16 +24,16 @@ Email: viranchee@outlook.com
 
 ## Latest Projects 
 
-- [**Popviewers**](https://www.heady.io), An iOS App to discover new Movies and TV Shows, and submit/view video reviews, providing a layer of authenticity and emotion. The App is in Beta testing, and was made as part of working with Heady LLC.
-- [**PrivatePropertiesInProtocols**](https://github.com/Viranchee/PrivatePropertiesInProtocols), Implement Private Properties in Protocols using this approach. Easy to use, along with Compile time help.
-- [**BuggyAutoLayout**](https://github.com/Viranchee/BuggyAutolayout), Quirks of iOS in Keyboard handling and it's solution
-- [**100DaysOfSwiftUI**](http://www.aiartonline.com/design/emil-wallner/), A monorepo containing Viranchee's knowledge-base of SwiftUI
+- [**Popviewers**][heady], An iOS App to discover new Movies and TV Shows, and submit/view video reviews, providing a layer of authenticity and emotion. The App is in Beta testing, and was made as part of working with Heady LLC.
+- [**PrivatePropertiesInProtocols**][PrivatePropertiesInProtocols], Implement Private Properties in Protocols using this approach. Easy to use, along with Compile time help.
+- [**BuggyAutoLayout**][buggyAutoLayout], Quirks of iOS in Keyboard handling and it's solution
+- [**100DaysOfSwiftUI**][100SwiftUI], A monorepo containing Viranchee's knowledge-base of SwiftUI
 
 <br/>
 
 ## Experience 
 
-#### iOS App Developer, [Heady LLC](https://heady.io)
+#### iOS App Developer, [Heady LLC][heady]
 ##### April 2019 - Present | Mumbai
 
 Principal Architect on **Popviewers** app
@@ -46,46 +46,51 @@ Increase team's collective knowledge by giving internal talks on Object Composit
 
 --- 
 
-#### iOS Developer Intern, [Indiawyn Gaming](https://www.indiawyn.com/)
+#### iOS Developer Intern, [Indiawyn Gaming][indiawyn]
 ##### November - January 2018 (2 months)  | Mumbai
 
 Create custom UI elements
 
 --- 
 
-#### Embedded Developer Intern, [Earth Energy EV](http://earthenergy-ev.com/)
+#### Embedded Developer Intern, [Earth Energy EV][earthEnergy]
 ##### December 2017 - June 2018 (6 months) | Mumbai
 
 Embedded Development using Arduino, RPi Zero, MQTT, Hardware interfacing BLDC motor controllers, 3G Data card, GLCD Display, Bike Lights control using Relays
 
 ---
 
-
-#### Website Developer (contractor), [Unique Graphology Center](https://www.sbs.ox.ac.uk/)
-##### April 2012 - January 2014 (1 year 10 months) | Unique Graphology Center
-
-I assisted a relative to get their website up and running using Wordpress to market their skills in Graphology.
-
----
 <br/>
 
 ## Public Speaking Opportunities
 
-- **[State Management made easy with Reducers]()** : Talk at Kotlin User Group Mumbai community, February 2020
-- **[Private Properties in Protocols]()** : Talk at SwiftIndia Mumbai community, January 2020
-- **[Custom UIViews and Gesture Recognizers]()** : Lightning talk at SwiftIndia Mumbai community, June 2019
-- **[Protocols and Delegates]()** : Talk at Android Mumbai community, March 2019 
-- **[Protocols and Delegates]()** : Talk at SwiftIndia Mumbai community, February 2019 
-- **[Python Workshop]()** : Workshop at Null Mumbai community, December 2018
+- **[State Management made easy with Reducers][kotlinReducer]** : Talk at Kotlin User Group Mumbai community, February 2020
+- **[Private Properties in Protocols][swiftMumbaiPrivatePropertiesInProtocols]** : Talk at SwiftIndia Mumbai community, January 2020
+- **[Custom UIViews and Gesture Recognizers][swiftUIViewLightning]** : Lightning talk at SwiftIndia Mumbai community, June 2019
+- **[Protocols and Delegates][madProtocol]** : Talk at Android Mumbai community, March 2019 
+- **[Visualising Protocols][swiftMumbaiProtocols]** : Talk at SwiftIndia Mumbai community, February 2019 
+- **[Python Workshop][pythonWorkshop]** : Workshop at Null Mumbai community, December 2018
 ---
 <br/>
 
 ## Education
 
-#### iOS Development Bootcamp, [Vipul Shah](https://appdevcon.nl/speaker/vipul-shah)
+#### iOS Development Bootcamp, [Vipul Shah][vipulSpeaker]
 ##### (2016 - 2019) | Mumbai
 
 A bootcamp for 5 students by Vipul Shah to improve their skills in app development domain and prepare them to be industry ready for available jobs.
+
+#### B.E. Electronics Engineering, Mumbai University, KJSCE
+##### (2014 - 2019) | Mumbai
+
+Projects:
+- Design and Analysis of Microwave Filters for WiFi Application - [published paper][microwavePaper]
+- Password based Lock using ATmega 328
+- Water detection using Capacitive Sensor 
+- Configurable single shot timer using IC555
+
+#### Diploma in Industrial Electronics, KJSP
+##### (2011 - 2014) | Mumbai
 
 ---
 
@@ -107,10 +112,6 @@ A bootcamp for 5 students by Vipul Shah to improve their skills in app developme
 - **[iOS Development Cookbook, Erica Sadun](https://www.amazon.com/Core-iOS-Developers-Cookbook-Library/dp/0321948106)**
 - **[SwiftTube](swifttube.co)**
 
-### Platforms
-
-- 
-
 ### Design
 
 - FCPX, Motion, Sketch, Photoshop, Illustrator
@@ -122,4 +123,44 @@ A bootcamp for 5 students by Vipul Shah to improve their skills in app developme
 
 <br/>
 
-## Quirks
+<!-- Links -->
+
+<!-- Resume -->
+
+[pdfResume]: www.fast.com
+
+<!-- Social Media -->
+
+[twitter]: https://twitter.com/code_magician
+[email]: mailto:viranchee@outlook.com
+[linkedin]: https://www.linkedin.com/in/viranchee/
+[website]: https://www.viranchee.com
+[github]: https://github.com/Viranchee
+[location]: https://www.google.co.in/maps/place/Mumbai
+
+<!-- Places Worked -->
+
+[heady]: www.heady.io
+[indiawyn]: www.indiawyn.com
+[earthEnergy]: http://earthenergy-ev.com/
+
+[vipulSpeaker]: https://www.de.droidcon.com/speaker/Vipul-Shah
+
+<!-- Publications -->
+
+[microwavePaper]: www.ijetsr.com/images/short_pdf/1491812828_dmce943_ivenue_ijetsr.pdf
+
+<!-- Talks -->
+
+[pythonWorkshop]: https://www.null.co.in/events/524-mumbai-null-mumbai-public-puliya-15-december-2018-python
+[swiftMumbaiProtocols]: https://www.meetup.com/SwiftMumbai/events/258465693/
+[madProtocol]: https://www.meetup.com/gdg-mad/events/259838998/
+[swiftUIViewLightning]: https://www.meetup.com/SwiftMumbai/events/260541095/
+[swiftMumbaiPrivatePropertiesInProtocols]: https://www.meetup.com/SwiftMumbai/events/266462321/
+[kotlinReducer]: https://www.meetup.com/Kotlin-User-Group-Mumbai/events/268077446/
+
+<!-- Repos -->
+
+[PrivatePropertiesInProtocols]: www.github.com/Viranchee/PrivatePropertiesInProtocols
+[buggyAutoLayout]: https://github.com/Viranchee/BuggyAutolayout
+[100SwiftUI]: www.fast.com
