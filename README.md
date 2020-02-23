@@ -35,7 +35,7 @@ Email: w@llner.co
 
 ## Experience 
 
-#### Machine Learning Researcher (contractor), [Google](https://artsandculture.google.com/)
+#### Residency, [Google](https://artsandculture.google.com/)
 ##### July 2019 - Present | Paris
 
 --- 
