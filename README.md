@@ -14,11 +14,11 @@
 
 ---
 
-Emil is using machine learning to explore art and culture at Google and independent research in neural reasoning.
+I'm currently exploring art and culture at Google and I'm doing independent research in neural reasoning.
 
-In 2018, he made a popular open-source project that translates design mock-ups into HTML/CSS, [Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code), and in early 2019 he was subject for a short-film by Google for his work on [automated colorization](https://www.youtube.com/watch?v=xKPk7tG2upc). 
+In 2018, I made a popular open-source project that translates design mock-ups into HTML/CSS, [Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code), and in early 2019 I was subject for a short-film by Google for my work on [automated colorization](https://www.youtube.com/watch?v=xKPk7tG2upc). 
 
-Emil previously worked for the University of Oxford and he co-founded a [seed investment firm](http://emerge.education/) focussed on education technology (59 investments). 
+I previously worked for the University of Oxford and co-founded a [seed investment firm](http://emerge.education/) focussed on education technology (59 investments). 
 
 Email: w@llner.co
 
