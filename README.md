@@ -14,7 +14,7 @@
 
 ---
 
-I'm currently exploring art and culture at Google and I'm doing independent research in neural reasoning.
+I'm currently a resident at Google using machine learning to explore art and culture. Part-time, I'm doing independent research in neural reasoning, applying machine learning to mathematics, programming, and logical tasks. 
 
 In 2018, I made a popular open-source project that translates design mock-ups into HTML/CSS, [Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code), and in early 2019 I was subject for a short-film by Google for my work on [automated colorization](https://www.youtube.com/watch?v=xKPk7tG2upc). 
 
