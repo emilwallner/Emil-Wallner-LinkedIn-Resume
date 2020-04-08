@@ -43,7 +43,7 @@ Developing deep learning projects and documenting the process.
 ## Education
 
 #### Computer Science, [42](https://www.42.fr/)
-##### (2016 - 2019) | Paris
+##### (2016 - 2020) | Paris
 
 A peer-to-peer CS school without teachers. 
 
