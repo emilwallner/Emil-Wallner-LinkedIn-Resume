@@ -24,15 +24,6 @@ Email: w@llner.co
 
 <br/>
 
-## Latest Projects 
-
-- [**Screenshot-to-code**](https://github.com/emilwallner/Screenshot-to-code), A neural network that transforms a design mock-up into a static website.
-- [**Colorization**](https://github.com/emilwallner/Coloring-greyscale-images), Coloring B&W portraits with neural networks. (featured by [Google](https://www.blog.google/technology/ai/creative-coder-adding-color-machine-learning/))
-- [**Drawing-to-logo**](http://www.aiartonline.com/design/emil-wallner/), a custom pix2pixHD model that transforms drawings into graphics (featured at [NeurIPS 2018](http://www.aiartonline.com/design/emil-wallner/)).
-
-
-<br/>
-
 ## Experience 
 
 #### Residency, [Google](https://artsandculture.google.com/)
@@ -58,27 +49,6 @@ A peer-to-peer CS school without teachers.
 
 
 ---
-
-
-<br/>
-
-## Stack
-
-### Programming
-
-- C, Python, Javascript, React, Tensorflow, Pytorch, and Keras.
-
-### Platforms
-
-- Kubernetes, Firebase, FloydHub, Google Cloud Platform, Digital Ocean, and AWS.
-
-### Design
-
-- Sketch and Photoshop.
-
-### Languages
-
-- English and Swedish.
 
 
 <br/>
