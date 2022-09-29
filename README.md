@@ -2,19 +2,22 @@
 <p align="center"><img src="header.png"></p>
 
 <p align="center">
-  <a href="https://twitter.com/emilwallner"><img src="https://img.shields.io/badge/Twitter-8952-34A1F2.svg" alt="Twitter"></a>
-  <a href="https://medium.com/@emilwallner"><img src="https://img.shields.io/badge/Medium-4256-71EF8E.svg" alt="Medium"></a>
+  <a href="https://twitter.com/emilwallner"><img src="https://img.shields.io/badge/Twitter-11701-34A1F2.svg" alt="Twitter"></a>
   <a href="mailto:w@llner.co"><img src="https://img.shields.io/badge/Email-w%40llner.co-red.svg" alt="Email"></a>
-  <a href="https://github.com/emilwallner"><img src="https://img.shields.io/badge/GitHub-1352-000000.svg" alt="GitHub"></a>
+  <a href="https://github.com/emilwallner"><img src="https://img.shields.io/badge/GitHub-1752-000000.svg" alt="GitHub"></a>
   <a href="https://goo.gl/maps/gxHX7SRQQTL2"><img src="https://img.shields.io/badge/Location-Paris-00FFB4.svg" alt="Paris"></a>
-
-  <img src="https://img.shields.io/badge/Telegram-%40emilwallner-%233DA6D9.svg" alt="Telegram">
 
 </p>
 
 ---
 
-I'm currently a resident at Google where I'm using machine learning to explore art and culture. Part-time, I'm doing independent research in neural reasoning, applying machine learning to mathematics, programming, and logical tasks. 
+## 👋 I'm Emil
+
+I'm a the maker of Palette and a resident at Google using machine learning to explore art and culture.
+
+- 🎥 A one-minute [video introduction](https://www.youtube.com/watch?v=xKPk7tG2upc)
+- 🖼 [The Klimt Color Enigma](https://artsandculture.google.com/story/the-klimt-color-enigma/SQWxuZfE5ki3mQ?hl=en) ([Wired](https://www.wired.com/story/artificial-intelligence-reviving-lost-art/) & [the Washington Post](https://www.washingtonpost.com/entertainment/museums/gustav-klimt-google-digital-reconstructions/2021/12/28/4a18f61e-36a5-11ec-8be3-e14aaacfa8ac_story.html))
+- 🎛 An ML desktop browser app to [colorize photos with words](https://palette.fm/).
 
 In 2018, I made a popular open-source project that translates design mock-ups into HTML/CSS, [Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code), and in early 2019 I was the subject for a short-film by Google for my work on [automated colorization](https://www.youtube.com/watch?v=xKPk7tG2upc). 
 
@@ -24,7 +27,12 @@ Email: w@llner.co
 
 <br/>
 
-## Experience 
+## Experience
+
+#### Maker, [Palette](https://palette.fm/)
+##### July 2022 - Present | Paris
+
+--- 
 
 #### Residency, [Google](https://artsandculture.google.com/)
 ##### July 2019 - Present | Paris
