@@ -35,7 +35,7 @@ Email: w@llner.co
 --- 
 
 #### Residency, [Google](https://artsandculture.google.com/)
-##### July 2019 - Present | Paris
+##### July 2019 - February 2023 | Paris
 
 --- 
 
